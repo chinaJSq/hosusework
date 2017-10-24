@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#ffffff"
+    android:orientation="horizontal" >
+    
+    <View
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1" />
+    
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="18"
+        android:orientation="vertical"
+        android:gravity="center">
+        
+        <RelativeLayout 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+    
+        <TextView 
+            android:id="@+id/dataNone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="声明： 感谢慕课网提供的学习资源！本软件有两种模式选择，常规模式下保证公平，公正，作弊模式下，永远是安安静静的呆着。感谢大家的使用 。by轻风"
+            android:layout_centerVertical="true"
+         	android:textColor="@color/grey"
+            android:layout_marginLeft="12dp"   
+            android:textSize="18sp"
+  
+            />
+            
+        </RelativeLayout>
+        
+        <RelativeLayout 
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="20dp">
+    
+          <Button
+            android:id="@+id/save_yes"
+            android:layout_width="200dp"
+            android:layout_height="40dp"
+            android:background="@drawable/bluebtn_pressed"       
+            android:textSize="18sp"
+            android:textColor="#ffffff"
+            android:text="确定" />           
+        </RelativeLayout>
+  
+    </LinearLayout>
+    
+    <View
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1" />
+
+</LinearLayout>

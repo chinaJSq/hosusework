@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <!-- action items -->
+    <!-- showAsAction默认为never -->
+
+    <item
+        android:id="@+id/normal"
+        android:icon="@android:drawable/ic_menu_add"
+        android:showAsAction="never"
+        android:title="常规模式">
+    </item>
+    <item
+        android:id="@+id/test"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:showAsAction="never"
+        android:title="作弊模式"/>
+    <item
+        android:id="@+id/look"
+        android:icon="@android:drawable/ic_menu_share"
+        android:showAsAction="never"
+        android:title="声明"/>
+    <item
+        android:id="@+id/exit"
+        android:icon="@android:drawable/ic_menu_call"
+        android:showAsAction="never"
+        android:title="退出"/>
+ 
+    <!-- action views -->
+  
+
+</menu>

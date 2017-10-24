@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="lightblue">#f16c4d</color>
+    <color name="darkblue">#003A70</color>
+    <color name="white">#ffffff</color>
+    <color name="greywhite">#88AABE</color>
+    <color name="halftransparent">#bfffffff</color>
+    <color name="darkred">#8b0000</color>
+    <color name="transparent">#00000000</color>
+    <color name="light_grey">#989898</color>
+    <color name="light_grey1">#656470</color>
+    <color name="dark_grey">#808080</color>
+    <color name="dark_grey1">#afafb0</color>
+    <color name="addlightblue">#ebedf0</color>
+    <color name="black_grey">#5b5b5b</color>
+    <color name="red">#ff0000</color>
+    <color name="addlightblue1">#eef0f2</color>
+    <color name="blue1">#4c90e5</color>
+    <color name="darkdarkblue">#196e8c</color>
+	<color name="grey">#ebedf0</color>
+	<color name="blue">#0000ff</color> <!-- 蓝色 -->
+	<color name="plugin_camera_black">#000000</color>
+	<color name="albumback">#E1E0DE</color>
+	<color name="black">#000000</color> <!-- 黑色 -->
+	<color name="black1">#1b1e26</color> <!-- 黑色 -->
+	<color name="darkgrey">#d5d5d5</color>
+	<color name="province_line_border">#C7C7C7</color>
+	<color name="halftransparent1">#30000000</color>
+	<color name="grey1">#babcbd</color>
+	<color name="backgroundgrey">#ebedf0</color>
+	<color name="wordgrey1">#cde2ed</color>
+	<color name="dimgrey">#696969</color> <!-- 暗灰色 -->
+	<color name="darkblue1">#196e8c</color>
+	<color name="transparent_red">#ddff5654</color>  
+	<color name="llight_grey">#838383</color> 
+	<color name="lllight_grey">#f0f0f0</color> 
+</resources>
